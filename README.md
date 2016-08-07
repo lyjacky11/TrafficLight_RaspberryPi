@@ -1,2 +1,2 @@
 # Traffic Light Project
-Traffic Light Program using Python and Raspberry Pi
+Traffic Light Python Code for Raspberry Pi
